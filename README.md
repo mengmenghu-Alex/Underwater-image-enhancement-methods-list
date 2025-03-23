@@ -4,7 +4,7 @@
  * @Author: 强虎
  * @Date: 2025-03-23 10:04:54
  * @LastEditors: 强虎
- * @LastEditTime: 2025-03-23 20:04:31
+ * @LastEditTime: 2025-03-23 21:01:21
  * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
  * 所有权属于四川大学电器工程学院PMCIRI
 -->
@@ -28,7 +28,7 @@ Each method includes a brief description, original paper link, and official code
 | **UDCP** (Transmission Estimation in Underwater Single Images) | IEEE International Conference on Computer Vision Workshops|[Drews et al., 2013](https://ieeexplore.ieee.org/document/6755982) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Color%20Restoration/UDCP) |
 | **ULAP** (A Rapid Scene Depth Estimation Model Based on Underwater Light Attenuation Prior for Underwater Image Restoration)| Advances in Multimedia Information Processing–PCM|[Song et al., 2018](https://link.springer.com/chapter/10.1007/978-3-030-00776-8_62) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Color%20Restoration/ULAP) |
 |**GUDCP**(GUDCP: Generalization of Underwater Dark Channel Prior for Underwater Image Restoration)|IEEE Transactions on Circuits and Systems for Video Technology|[Liang et al., 2022](https://ieeexplore.ieee.org/document/9541354)|None|
-|**UIRPIOM**(An Underwater Image Restoration Method with Polarization Imaging Optimization Model for Poor Visible Conditions)|EEE Transactions on Circuits and Systems for Video Technology|[Li et al., 2025](https://ieeexplore.ieee.org/document/10781421)|[Github](https://github.com/liyafengLYF/UIRPIOM)|
+|**UIRPIOM**(An Underwater Image Restoration Method with Polarization Imaging Optimization Model for Poor Visible Conditions)|IEEE Transactions on Circuits and Systems for Video Technology|[Li et al., 2025](https://ieeexplore.ieee.org/document/10781421)|[Github](https://github.com/liyafengLYF/UIRPIOM)|
 ---
 
 ## 🎨 2. Non-Physical Model-Based Methods
