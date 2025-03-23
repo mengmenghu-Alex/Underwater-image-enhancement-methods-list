@@ -12,11 +12,11 @@ Each method includes a brief description, original paper link, and official code
 
 ## ✅ 1. Physical Model-Based Methods
 
-| Method | Paper | Code |
-|--------|-------|------|
-| **DCP** (Single Image Haze Removal Using Dark Channel Prior)| [He et al., 2011]([10.1109/TPAMI.2010.168](https://ieeexplore.ieee.org/abstract/document/5567108)) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Color%20Restoration/DCP) |
-| **UDCP** (Transmission Estimation in Underwater Single Images) | [Drews et al., 2013](https://ieeexplore.ieee.org/document/6755982) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Color%20Restoration/UDCP) |
-| **ULAP** (A Rapid Scene Depth Estimation Model Based on Underwater Light Attenuation Prior for Underwater Image Restoration)| [Song et al., 2018](https://link.springer.com/chapter/10.1007/978-3-030-00776-8_62) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Color%20Restoration/ULAP) |
+| Method |Journal    | Paper | Code |
+|--------|-----------|------|------|
+| **DCP** (Single Image Haze Removal Using Dark Channel Prior)|IEEE Transactions on Pattern Analysis and Machine Intelligence |[He et al., 2011]([10.1109/TPAMI.2010.168](https://ieeexplore.ieee.org/abstract/document/5567108)) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Color%20Restoration/DCP) |
+| **UDCP** (Transmission Estimation in Underwater Single Images) | IEEE International Conference on Computer Vision Workshops|[Drews et al., 2013](https://ieeexplore.ieee.org/document/6755982) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Color%20Restoration/UDCP) |
+| **ULAP** (A Rapid Scene Depth Estimation Model Based on Underwater Light Attenuation Prior for Underwater Image Restoration)| Advances in Multimedia Information Processing–PCM|[Song et al., 2018](https://link.springer.com/chapter/10.1007/978-3-030-00776-8_62) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Color%20Restoration/ULAP) |
 
 ---
 
