@@ -4,7 +4,7 @@
  * @Author: 强虎
  * @Date: 2025-03-23 10:04:54
  * @LastEditors: 强虎
- * @LastEditTime: 2025-03-23 19:52:23
+ * @LastEditTime: 2025-03-23 20:04:31
  * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
  * 所有权属于四川大学电器工程学院PMCIRI
 -->
@@ -27,7 +27,8 @@ Each method includes a brief description, original paper link, and official code
 | **DCP** (Single Image Haze Removal Using Dark Channel Prior)|IEEE Transactions on Pattern Analysis and Machine Intelligence |[He et al., 2011]([10.1109/TPAMI.2010.168](https://ieeexplore.ieee.org/abstract/document/5567108)) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Color%20Restoration/DCP) |
 | **UDCP** (Transmission Estimation in Underwater Single Images) | IEEE International Conference on Computer Vision Workshops|[Drews et al., 2013](https://ieeexplore.ieee.org/document/6755982) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Color%20Restoration/UDCP) |
 | **ULAP** (A Rapid Scene Depth Estimation Model Based on Underwater Light Attenuation Prior for Underwater Image Restoration)| Advances in Multimedia Information Processing–PCM|[Song et al., 2018](https://link.springer.com/chapter/10.1007/978-3-030-00776-8_62) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Color%20Restoration/ULAP) |
-
+|**GUDCP**(GUDCP: Generalization of Underwater Dark Channel Prior for Underwater Image Restoration)|IEEE Transactions on Circuits and Systems for Video Technology|[Liang et al., 2022](https://ieeexplore.ieee.org/document/9541354)|None|
+|**UIRPIOM**(An Underwater Image Restoration Method with Polarization Imaging Optimization Model for Poor Visible Conditions)|EEE Transactions on Circuits and Systems for Video Technology|[Li et al., 2025](https://ieeexplore.ieee.org/document/10781421)|[Github](https://github.com/liyafengLYF/UIRPIOM)|
 ---
 
 ## 🎨 2. Non-Physical Model-Based Methods
@@ -47,17 +48,24 @@ Each method includes a brief description, original paper link, and official code
 |--------|-------|-------|------|
 | **UWCNN**(Underwater Scene Prior Inspired Deep Underwater Image and Video Enhancement) | Pattern recognition|[Li et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0031320319303401) | [GitHub](https://li-chongyi.github.io/proj_underwater_image_synthesis.html) |
 | **Water-Net**(An Underwater Image Enhancement Benchmark Dataset and Beyond)|IEEE transactions on image processing| [Li et al., 2019](https://ieeexplore.ieee.org/document/8917818) | [GitHub](https://github.com/Li-Chongyi/Water-Net_Code) |
+|All-In-One Underwater Image Enhancement using Domain-Adversarial Learning|The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops|[Uplavikar et al., 2019](https://arxiv.org/abs/1905.13342)|[Github](https://github.com/VITA-Group/All-In-One-Underwater-Image-Enhancement-using-Domain-Adversarial-Learning)|
 | **FUnIE-GAN** ( Fast Underwater Image Enhancement for Improved Visual Perception)|IEEE Robotics and Automation Letters|[Islam et al., 2020](https://ieeexplore.ieee.org/document/9001231)|[GitHub](https://github.com/xahidbuffon/funie-gan)|
 | **U-Color**(Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding) | IEEE Transactions on Image Processing|[Li et al., 2021](https://ieeexplore.ieee.org/document/9426457) | [GitHub](https://github.com/Li-Chongyi/Ucolor) |
 |**Shallow-UWnet**(Shallow-UWnet : Compressed Model for Underwater Image Enhancement)|AAAI Conference on Artificial Intelligence|[Naik et al., 2021](https://arxiv.org/abs/2101.02073)|[Github](https://github.com/mkartik/Shallow-UWnet)|
+|**STSC**(Semantic-aware Texture-Structure Feature Collaboration for Underwater Image Enhancement)|International Conference on Robotics and Automation |[Wang et al., 2022](https://ieeexplore.ieee.org/abstract/document/9812457)|[Github](https://github.com/wdhudiekou/STSC)|
 |**TCTL**(TCTL-Net: Template-Free Color Transfer Learning for Self-Attention Driven Underwater Image Enhancement)|IEEE Transactions on Circuits and Systems for Video Technology|[Li et al., 2023](https://ieeexplore.ieee.org/document/10298280)|[Github](https://ieeexplore.ieee.org/document/10298280)|
 |**UIE-FSMC**(UIE-FSMC: Underwater Image Enhancement Based on Few-Shot Learning and Multi-Color Space)|IEEE Transactions on Circuits and Systems for Video Technology|[Qiao et al., 2023](https://ieeexplore.ieee.org/document/10064015)|None|
 |**P2CNet**(Deep Color Compensation for Generalized Underwater Image Enhancement)|IEEE Transactions on Circuits and Systems for Video Technology|[Rao et al., 2023](https://ieeexplore.ieee.org/document/10220126)|[Github](https://github.com/Ray2OUC/P2CNet)|
 |**LightEnhanceNet** (LiteEnhanceNet: A lightweight network for real-time single underwater image enhancement)|Expert Systems with Applications|[Zhao et al., 2024](https://www.sciencedirect.com/science/article/abs/pii/S0957417423030488)|[GitHub](https://github.com/zhangsong1213/LiteEnhanceNet)|
 |**HCLR-Net** (HCLR-Net: Hybrid Contrastive Learning Regularization with Locally Randomized Perturbation for Underwater Image Enhancement)| International Journal of Computer Vision|[Zhou et al., 2024](https://link.springer.com/article/10.1007/s11263-024-01987-y)|[GitHub](https://github.com/zhoujingchun03/HCLR-Net)|
+|**PA-Diff**(Learning A Physical-aware Diffusion Model Based on Transformer for Underwater Image Enhancement)|ACM International Conference on Multimedia|[Zhao et al., 2024](https://arxiv.org/abs/2403.01497)|[Github](https://github.com/chenydong/pa-diff)|
+|**UDBE**(UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images)|ICMLA|[Tatiana et al., 2025](https://arxiv.org/abs/2501.16211)|[Github](https://github.com/gusanagy/udbe)|
 |**PAFPT**(Progressive aggregator with feature prompted transformer for underwater image enhancement)|Expert Systems with Applications|[Yang et al., 2025](https://www.sciencedirect.com/science/article/abs/pii/S0957417424024060)|None|
 |**DNnet**(DNnet: A lightweight network for real-time 4K underwater image enhancement using dynamic range and average normalization)|Expert Systems with Applications|[Cao et al., 2025](https://www.sciencedirect.com/science/article/abs/pii/S0957417425001836)|[Github](https://github.com/Tian-Yu-CAO/DNnet-A-Lightweight-Network-For-Real-Time-4K-Underwater-Image-Enhancement)|
 |**UDnet**(Adaptive deep learning framework for robust unsupervised underwater image enhancement)|Expert Systems with Applications|[Saleh et al., 2025](https://www.sciencedirect.com/science/article/pii/S0957417424031816)|[Github](https://github.com/alzayats/UDnet)|
+|**FDCE-Net**(FDCE-Net: Underwater Image Enhancement With Embedding Frequency and Dual Color Encoder)|IEEE Transactions on Circuits and Systems for Video Technology|[Cheng et al., 2025](https://ieeexplore.ieee.org/document/10720919)|[Github](https://github.com/Alexande-rChan/FDCE-Net)|
+|**GuidedHybSensUIR**(Underwater Image Restoration Through a Prior Guided Hybrid Sense Approach and Extensive Benchmark Analysis)|IEEE Transactions on Circuits and Systems for Video Technology|[Guo et al., 2025](https://ieeexplore.ieee.org/document/10824878)|[Github](https://github.com/CXH-Research/GuidedHybSensUIR)|
+|**AUIED3K**(AUIED3K: A New Andaman Underwater Image Enhancement Dataset for Deep Learning-Driven Image Enhancement with Minimum Loss Dehazing)| ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)|[Saini et al., 2025](https://ieeexplore.ieee.org/document/10890845)|None|
 
 ---
 
