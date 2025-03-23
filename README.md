@@ -25,7 +25,7 @@ Each method includes a brief description, original paper link, and official code
 | Method | Paper | Code |
 |--------|-------|------|
 | **Fusion-Based** (Enhancing underwater images and videos by fusion) | [Ancuti et al., 2012](https://ieeexplore.ieee.org/document/6247661) | [GitHub](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/tree/master/Underwater%20Image%20Enhancement/Fusion-Matlab) |
-|**acdc**(Underwater Image Enhancement by Attenuated Color Channel Correction and Detail Preserved Contrast Enhancement)|[Zhang et al., 2022](https://ieeexplore.ieee.org/document/9744022)|[Github](https://github.com/Li-Chongyi/JOE2021_ACDC)|
+|**ACDC**(Underwater Image Enhancement by Attenuated Color Channel Correction and Detail Preserved Contrast Enhancement)|[Zhang et al., 2022](https://ieeexplore.ieee.org/document/9744022)|[Github](https://github.com/Li-Chongyi/JOE2021_ACDC)|
 |**ACCE-D**(Enhancing underwater image via adaptive color and contrast enhancement, and denoising)|[Li et al., 2022](https://www.sciencedirect.com/science/article/abs/pii/S0952197622000549)|[Github](https://github.com/Hou-Guojia/ACCE-D)|
 
 
