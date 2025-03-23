@@ -1,3 +1,13 @@
+<!--
+ * @Descripttion: 该模块主要实现的功能是：
+ * @version: 1.0
+ * @Author: 强虎
+ * @Date: 2025-03-23 10:04:54
+ * @LastEditors: 强虎
+ * @LastEditTime: 2025-03-23 10:13:15
+ * Copyright (c) 2025 by ${git_name_email}, All Rights Reserved. 
+ * 所有权属于四川大学电器工程学院PMCIRI
+-->
 # 🌊 Underwater Image Enhancement Methods (Curated List)
 
 This repository summarizes popular underwater image enhancement methods, categorized into:
