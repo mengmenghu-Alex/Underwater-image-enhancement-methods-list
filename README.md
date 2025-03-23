@@ -36,8 +36,8 @@ Each method includes a brief description, original paper link, and official code
 | **Water-Net**(An Underwater Image Enhancement Benchmark Dataset and Beyond)| [Li et al., 2019](https://ieeexplore.ieee.org/document/8917818) | [GitHub](https://github.com/Li-Chongyi/Water-Net_Code) |
 | **U-Color**(Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding) | [Li et al., 2021](https://ieeexplore.ieee.org/document/9426457) | [GitHub](https://github.com/Li-Chongyi/Ucolor) |
 | **FUnIE-GAN** ( Fast Underwater Image Enhancement for Improved Visual Perception)|[Islam et al., 2020](https://ieeexplore.ieee.org/document/9001231)|[GitHub](https://github.com/xahidbuffon/funie-gan)|
-|**LightEnhanceNet** (LiteEnhanceNet: A lightweight network for real-time single underwater image enhancement)|[Zhao et al., 2024] (https://www.sciencedirect.com/science/article/abs/pii/S0957417423030488)|[GitHub](https://github.com/zhangsong1213/LiteEnhanceNet)|
-|**HCLR-Net** (HCLR-Net: Hybrid Contrastive Learning Regularization with Locally Randomized Perturbation for Underwater Image Enhancement)|[Zhou et al., 2024] (https://link.springer.com/article/10.1007/s11263-024-01987-y)|[GitHub](https://github.com/zhoujingchun03/HCLR-Net)|
+|**LightEnhanceNet** (LiteEnhanceNet: A lightweight network for real-time single underwater image enhancement)|[Zhao et al., 2024](https://www.sciencedirect.com/science/article/abs/pii/S0957417423030488)|[GitHub](https://github.com/zhangsong1213/LiteEnhanceNet)|
+|**HCLR-Net** (HCLR-Net: Hybrid Contrastive Learning Regularization with Locally Randomized Perturbation for Underwater Image Enhancement)|[Zhou et al., 2024](https://link.springer.com/article/10.1007/s11263-024-01987-y)|[GitHub](https://github.com/zhoujingchun03/HCLR-Net)|
 
 ---
 
