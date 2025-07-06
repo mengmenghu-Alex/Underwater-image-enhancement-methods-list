@@ -77,7 +77,6 @@ Each method includes a brief description, original paper link, and official code
 |**UDnet**(Adaptive deep learning framework for robust unsupervised underwater image enhancement)|Expert Systems with Applications|[Saleh et al., 2025](https://www.sciencedirect.com/science/article/pii/S0957417424031816)|[Github](https://github.com/alzayats/UDnet)|
 |**FDCE-Net**(FDCE-Net: Underwater Image Enhancement With Embedding Frequency and Dual Color Encoder)|IEEE Transactions on Circuits and Systems for Video Technology|[Cheng et al., 2025](https://ieeexplore.ieee.org/document/10720919)|[Github](https://github.com/Alexande-rChan/FDCE-Net)|
 |**GuidedHybSensUIR**(Underwater Image Restoration Through a Prior Guided Hybrid Sense Approach and Extensive Benchmark Analysis)|IEEE Transactions on Circuits and Systems for Video Technology|[Guo et al., 2025](https://ieeexplore.ieee.org/document/10824878)|[Github](https://github.com/CXH-Research/GuidedHybSensUIR)|
-|**AUIED3K**(AUIED3K: A New Andaman Underwater Image Enhancement Dataset for Deep Learning-Driven Image Enhancement with Minimum Loss Dehazing)| ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)|[Saini et al., 2025](https://ieeexplore.ieee.org/document/10890845)|None|
 
 ---
 
